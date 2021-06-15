@@ -8,4 +8,4 @@ C#, .Net, MySql, EF Core
 Html, Css, Bootstrap et JS
 StarUML, Balsamiq, BPMN, Canva...
 
-
+Objectif : créer le site d'une agende d'événementiel ainsi qu'une plateforme de gestion d'événement.
